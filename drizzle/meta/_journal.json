@@ -1,0 +1,97 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1788288325876,
+      "tag": "0000_fearless_texas_twister",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1788290872177,
+      "tag": "0001_new_black_bird",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1788292442415,
+      "tag": "0002_lovely_mojo",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1788292926816,
+      "tag": "0003_lucky_crystal",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1788293397689,
+      "tag": "0004_nosy_trish_tilby",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1788293988905,
+      "tag": "0005_sudden_lyja",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "6",
+      "when": 1788299461678,
+      "tag": "0006_lethal_maddog",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "6",
+      "when": 1788371326518,
+      "tag": "0007_silent_apocalypse",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "6",
+      "when": 1788378609245,
+      "tag": "0008_special_junta",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "6",
+      "when": 1788383962553,
+      "tag": "0009_parched_lily_hollister",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "6",
+      "when": 1788385481703,
+      "tag": "0010_worthless_hitman",
+      "breakpoints": true
+    },
+    {
+      "idx": 11,
+      "version": "6",
+      "when": 1788386634191,
+      "tag": "0011_dark_killmonger",
+      "breakpoints": true
+    },
+    {
+      "idx": 12,
+      "version": "6",
+      "when": 1788404009134,
+      "tag": "0012_medical_electro",
+      "breakpoints": true
+    }
+  ]
+}
